@@ -1,4 +1,4 @@
-# Business Management Web Application : <br>
+#BizFlow(Business Management Web Application) : <br>
 
 ![home (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
 
